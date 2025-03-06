@@ -23,22 +23,22 @@ labels: documentation
 | **[Variance-Aware Loss Scheduling for Multimodal Alignment in Low-Data Settings](http://arxiv.org/abs/2503.03202v1)** | 2025-03-05 | 8 pages, 4 figures |
 | **[MCiteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs](http://arxiv.org/abs/2503.02589v2)** | 2025-03-05 |  |
 
-## RAG
+## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](http://arxiv.org/abs/2502.09977v2)** | 2025-03-05 | 22 pages |
-| **[RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](http://arxiv.org/abs/2503.02800v1)** | 2025-03-04 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.00914</p></details> |
-| **[Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](http://arxiv.org/abs/2409.11242v3)** | 2025-03-04 | <details><summary>Publi...</summary><p>Published at ICLR 2025 (Oral)</p></details> |
-| **[RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework](http://arxiv.org/abs/2408.01262v5)** | 2025-03-03 | <details><summary>https...</summary><p>https://github.com/OpenBMB/RAGEval</p></details> |
-| **[SAGE: A Framework of Precise Retrieval for RAG](http://arxiv.org/abs/2503.01713v1)** | 2025-03-03 |  |
-| **[Retrieval-Augmented Perception: High-Resolution Image Perception Meets Visual RAG](http://arxiv.org/abs/2503.01222v1)** | 2025-03-03 |  |
-| **[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](http://arxiv.org/abs/2410.13085v2)** | 2025-03-03 | ICLR 2025 |
-| **[Towards Efficient Educational Chatbots: Benchmarking RAG Frameworks](http://arxiv.org/abs/2503.00781v1)** | 2025-03-02 |  |
-| **[Post-training an LLM for RAG? Train on Self-Generated Demonstrations](http://arxiv.org/abs/2502.10596v2)** | 2025-03-01 |  |
-| **[U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack](http://arxiv.org/abs/2503.00353v1)** | 2025-03-01 |  |
-| **[Pseudo-Knowledge Graph: Meta-Path Guided Retrieval and In-Graph Text for RAG-Equipped LLM](http://arxiv.org/abs/2503.00309v1)** | 2025-03-01 |  |
-| **[The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems](http://arxiv.org/abs/2502.20995v1)** | 2025-02-28 |  |
-| **[Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](http://arxiv.org/abs/2407.08223v2)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models](http://arxiv.org/abs/2502.18992v1)** | 2025-02-26 | <details><summary>This ...</summary><p>This paper has been accepted as a workshop paper for KEIR@ECIR 2025</p></details> |
-| **[Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](http://arxiv.org/abs/2502.18635v1)** | 2025-02-25 |  |
+| **[Talking like Piping and Instrumentation Diagrams (P&IDs)](http://arxiv.org/abs/2502.18928v1)** | 2025-02-26 |  |
+| **[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](http://arxiv.org/abs/2404.16130v2)** | 2025-02-19 |  |
+| **[Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge](http://arxiv.org/abs/2502.13010v1)** | 2025-02-18 |  |
+| **[EACO-RAG: Towards Distributed Tiered LLM Deployment using Edge-Assisted and Collaborative RAG with Adaptive Knowledge Update](http://arxiv.org/abs/2410.20299v2)** | 2025-02-14 |  |
+| **[KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG](http://arxiv.org/abs/2502.09304v1)** | 2025-02-13 |  |
+| **[Graph RAG-Tool Fusion](http://arxiv.org/abs/2502.07223v1)** | 2025-02-11 | <details><summary>25 pa...</summary><p>25 pages, 14 figures, 2 tables</p></details> |
+| **[From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems](http://arxiv.org/abs/2410.01066v2)** | 2025-02-04 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 5 tables</p></details> |
+| **[Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach](http://arxiv.org/abs/2501.18320v1)** | 2025-01-30 |  |
+| **[DynaGRAG | Exploring the Topology of Information for Advancing Language Understanding and Generation in Graph Retrieval-Augmented Generation](http://arxiv.org/abs/2412.18644v3)** | 2025-01-28 |  |
+| **[Causal Graphs Meet Thoughts: Enhancing Complex Reasoning in Graph-Augmented LLMs](http://arxiv.org/abs/2501.14892v1)** | 2025-01-24 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 3 tables</p></details> |
+| **[CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation](http://arxiv.org/abs/2501.13993v1)** | 2025-01-23 | <details><summary>14 pa...</summary><p>14 pages, 5 Figures, 3 Tables</p></details> |
+| **[Superpixel-Based Building Damage Detection from Post-earthquake Imagery Using Deep Neural Networks](http://arxiv.org/abs/2112.04744v5)** | 2025-01-19 |  |
+| **[Retrieval-Augmented Generation with Graphs (GraphRAG)](http://arxiv.org/abs/2501.00309v2)** | 2025-01-08 |  |
+| **[Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines](http://arxiv.org/abs/2502.15698v1)** | 2025-01-06 |  |
+| **[HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases](http://arxiv.org/abs/2412.16311v1)** | 2024-12-20 |  |
 
